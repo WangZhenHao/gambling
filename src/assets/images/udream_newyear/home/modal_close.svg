@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>关闭</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="兔年活动-未中奖" transform="translate(-170.000000, -605.000000)">
+            <g id="编组-17" transform="translate(45.000000, 172.000000)">
+                <g id="关闭" transform="translate(125.000000, 433.000000)">
+                    <circle id="椭圆形" stroke="#FFFFFF" stroke-width="0.5" cx="18" cy="18" r="17.75"></circle>
+                    <rect id="矩形" fill="#FFFFFF" transform="translate(18.000000, 18.000000) rotate(-315.000000) translate(-18.000000, -18.000000) " x="10" y="17" width="16" height="2" rx="1"></rect>
+                    <rect id="矩形备份-4" fill="#FFFFFF" transform="translate(18.000000, 18.000000) rotate(-45.000000) translate(-18.000000, -18.000000) " x="10" y="17" width="16" height="2" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
